@@ -7,7 +7,7 @@
 $ npx json-server db.json
 ```
 ```
-seull@LAPTOP-L9AOK14Q  ~/code/seull-json-server  npx json-server db.json
+seull@LAPTOP-L9AOK14Q $ ~/code/seull-json-server $ npx json-server db.json
 JSON Server started on PORT :3000
 Press CTRL-C to stop
 Watching db.json...
